@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Config Condensed';
+    src:
+        local('Config Condensed Light'),
+        local('Config-Condensed-Light'),
+        url('ConfigCondensed-Light.woff2') format('woff2'),
+        url('ConfigCondensed-Light.woff') format('woff'),
+        url('ConfigCondensed-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Config Condensed';
+    src:
+        local('Config Condensed Regular'),
+        local('Config-Condensed-Regular'),
+        url('ConfigCondensed-Regular.woff2') format('woff2'),
+        url('ConfigCondensed-Regular.woff') format('woff'),
+        url('ConfigCondensed-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Config Condensed';
+    src:
+        local('Config Condensed Medium'),
+        local('Config-Condensed-Medium'),
+        url('ConfigCondensed-Medium.woff2') format('woff2'),
+        url('ConfigCondensed-Medium.woff') format('woff'),
+        url('ConfigCondensed-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Config Condensed';
+    src:
+        local('Config Condensed Bold'),
+        local('Config-Condensed-Bold'),
+        url('ConfigCondensed-Bold.woff2') format('woff2'),
+        url('ConfigCondensed-Bold.woff') format('woff'),
+        url('ConfigCondensed-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}

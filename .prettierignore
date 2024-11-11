@@ -1,0 +1,13 @@
+# Ignorar archivos de configuración
+*.config.js
+*.json
+
+# Ignorar carpetas específicas
+build/
+dist/
+node_modules/
+public/
+pac
+
+# Ignorar archivos específicos
+# src/ignored-file.js
